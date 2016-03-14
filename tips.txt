@@ -1,6 +1,0 @@
-1.在自己分支开发
-2.git add ，git commit
-3.切到master上和master合并
-4.git pull（这一步是从远程主分支拉下来和自己的本地主分支合并）
-5.如果有冲突，请解决冲突
-6.git push
